@@ -1,5 +1,6 @@
 package org.example;
 
+
 public class Wall {
     double width;
 
